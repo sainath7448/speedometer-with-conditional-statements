@@ -1,0 +1,34 @@
+.speedometer {
+  height: 300px;
+}
+
+.box-container {
+  text-align: center;
+  background-color: black;
+  height: 100vh;
+}
+
+.acc {
+  background-color: blue;
+  border-radius: 5px;
+  height: 30px;
+  margin: 5px;
+  color: white;
+  border-style: solid;
+  border-color: white;
+}
+.brk {
+  background-color: black;
+  border-radius: 5px;
+  height: 30px;
+  color: white;
+  border-style: solid;
+  border-color: white;
+}
+.para {
+  color: white;
+}
+
+.head {
+  color: white;
+}
